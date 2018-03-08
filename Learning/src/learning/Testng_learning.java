@@ -8,5 +8,8 @@ public class Testng_learning {
 	public void learn1()
 	{
 		System.out.println("print a method .......");
+		System.out.println("print a method .......");
+		System.out.println("print a method .......");
+		
 	}
 }
